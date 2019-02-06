@@ -1,0 +1,9 @@
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.deps.json
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.csprojResolveAssemblyReference.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.Model\obj\Debug\netcoreapp2.0\ImageGallery.Model.pdb

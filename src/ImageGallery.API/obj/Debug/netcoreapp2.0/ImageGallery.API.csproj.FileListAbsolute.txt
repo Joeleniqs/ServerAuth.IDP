@@ -1,0 +1,14 @@
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojResolveAssemblyReference.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
