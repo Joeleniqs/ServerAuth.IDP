@@ -6,3 +6,6 @@ C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageG
 C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\obj\Debug\netcoreapp2.0\ServerAuth.IDP.csproj.CoreCompileInputs.cache
 C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\obj\Debug\netcoreapp2.0\ServerAuth.IDP.AssemblyInfoInputs.cache
 C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\obj\Debug\netcoreapp2.0\ServerAuth.IDP.AssemblyInfo.cs
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\bin\Debug\netcoreapp2.0\ServerAuth.IDP.pdb
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\obj\Debug\netcoreapp2.0\ServerAuth.IDP.dll
+C:\JEniqs\Jproj\SecuringAspNetCore2WithOAuth2AndOIDC-master\Starter Files\ImageGallery\ServerAuth.IDP\obj\Debug\netcoreapp2.0\ServerAuth.IDP.pdb
